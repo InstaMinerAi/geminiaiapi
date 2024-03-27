@@ -1,4 +1,0 @@
-fastapi
-fastapi-socketio
-uvicorn
-google-generativeai
